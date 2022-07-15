@@ -1,0 +1,9 @@
+install project 
+$ pip install -r requarements.txt
+
+Run project 
+$ python main.py
+
+
+notes 
+Project scraping from wikipedia page and need some time for scrapping. Logs is tunred off, please wait for results :) Thank you 
